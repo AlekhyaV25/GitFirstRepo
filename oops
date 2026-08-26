@@ -1,1 +1,2 @@
 Object-Oriented Programming (OOP) is a software design model that organizes code around Objects and data rather than pure functions and logic
+Core Pillars of OOPEncapsulation: Bundling data (attributes) and methods (behaviors) into a single unit (a class) and hiding internal state from the outside.Abstraction: Hiding complex background logic and showing only the essential features to the user.
