@@ -1,0 +1,1 @@
+-r: Tells the system to look inside the folder and delete all files and subfolders (recursive).-f: Tells the system to delete everything without asking for confirmation each time (force).
